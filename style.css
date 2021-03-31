@@ -10,7 +10,7 @@ body{
 }
 main{
 background-color: white;
-width: 500px;
+width: 700px;
 margin: auto;
 box-shadow: 3px 3px 5px black;
 padding: 10;
@@ -21,4 +21,8 @@ header{
     color: teal;
     text-align: center;
    
+}
+ img.lado{
+    float:right;
+
 }
