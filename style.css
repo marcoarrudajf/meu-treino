@@ -1,0 +1,18 @@
+*{
+    /* background-color: rgb(172, 8, 243); */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+body{
+    background-color: darkviolet;
+
+
+}
+main{
+background-color: white;
+width: 500px;
+margin: auto;
+box-shadow: 3px 3px 5px black;
+padding: 10;
+
+}
